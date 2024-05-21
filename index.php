@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <h1>Calculator</h1>
     <div class="container">
         <!-- action points towards php inside this doc rather than pointing 
         to an external php file -->

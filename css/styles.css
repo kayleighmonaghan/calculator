@@ -7,12 +7,6 @@ body {
     background: linear-gradient(180deg, hsla(10, 82%, 65%, 1) 0%, hsla(290, 79%, 13%, 1) 100%);
 }
 
-h1 {
-    font-size: 30px;
-    font-weight: bold;
-    margin: 10px;
-}
-
 input,
 select {
     padding: 10px;
@@ -62,7 +56,7 @@ a:hover {
     display: inline block;
     padding: 10px 0;
     margin: 0 auto;
-    margin-top: 10px;
+    margin-top: 20px;
     background-color: #34073d;
     border-radius: 5px;
 }
